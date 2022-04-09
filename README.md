@@ -1,4 +1,4 @@
-# App.Cadastro.Series.NET-
+# App.Cadastro.Series.NET
 O Objetivo do curso é criar um algoritmo para cadastrar séries de TV com base nos conhecimentos de orientação a objetos. 
 O curso foi ministrado por: 
 Eliézer Zarpelão
