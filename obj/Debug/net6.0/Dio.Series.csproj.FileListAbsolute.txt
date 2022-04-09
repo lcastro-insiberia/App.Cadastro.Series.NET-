@@ -1,0 +1,15 @@
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.AssemblyReference.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfoInputs.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfo.cs
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.CoreCompileInputs.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/bin/Debug/net6.0/Dio.Series
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/bin/Debug/net6.0/Dio.Series.deps.json
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/bin/Debug/net6.0/Dio.Series.runtimeconfig.json
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/bin/Debug/net6.0/Dio.Series.dll
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/bin/Debug/net6.0/Dio.Series.pdb
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.dll
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/refint/Dio.Series.dll
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.pdb
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/Dio.Series.genruntimeconfig.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/Dio.Series/obj/Debug/net6.0/ref/Dio.Series.dll
